@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732484202003",
+    "project_id": "personal-notes-1130",
+    "storage_bucket": "personal-notes-1130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732484202003:android:a2d1f7dd587c991235d9e6",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732484202003-k9cmq706hi8nknadpu2sjmsv7c9dneld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pajuIY3Na-UkqVYh21Qquf1-uhUs6A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732484202003-k9cmq706hi8nknadpu2sjmsv7c9dneld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
